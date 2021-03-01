@@ -8,7 +8,7 @@
 * sqlite3
 
 ## How it works
-Using the tKinter library, constructed a graphical user interface that ties back to a databases. This interface enables users to store sensitive data, such as username and password combinations. 
+Using the tKinter library, constructed a graphical user interface that ties back to a database. This interface enables users to store sensitive data, such as username and password combinations. 
 
 ### Procedures:
 * Construct database, if necessary.
