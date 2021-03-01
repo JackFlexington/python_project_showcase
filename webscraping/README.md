@@ -7,7 +7,7 @@
 * Selenium
 
 ## How it works
-Though it shows the browser, this is purely for illustrative purposes (and testing)... however everything runs better when the browser is ran in "headless" mode. Meaning the graphical porition of the web browser doesn't render but still exists.
+Though it shows the browser, this is purely for illustrative purposes (and testing)... things run much better when the browser is executed in "headless" mode. Meaning the graphical porition of the web browser doesn't render but still is able to function.
 
 ### Procedures:
 * Start Firefox browser.
