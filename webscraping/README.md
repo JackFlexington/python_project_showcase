@@ -3,8 +3,8 @@
 ![GIF webscrape](https://github.com/JackFlexington/python_project_showcase/blob/master/webscraping/webscraping.gif)
 
 ## Libraries used
-* pandas
-* selenium
+* Pandas
+* Selenium
 
 ## How it works
 Though it shows the browser, this is purely for illustrative purposes (and testing)... however everything runs better when the browser is ran in "headless" mode. Meaning the graphical porition of the web browser doesn't render but still exists.
