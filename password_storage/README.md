@@ -1,7 +1,7 @@
 # Password Storage
 
 ## Video
-[password app gif]()
+![GIF password app](https://github.com/JackFlexington/python_project_showcase/blob/master/password_storage/password_app.gif)
 
 ## Libraries used
 * tKinter
