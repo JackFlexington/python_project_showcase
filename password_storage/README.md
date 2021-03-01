@@ -8,7 +8,7 @@
 * sqlite3
 
 ## How it works
-Split the application across two files, database.py and passwordstorage.py, one handling the "back-end" and one handling the "front-end". Once the application is open, loads database into the application and allows user to interact with the data contained within.
+Using the tKinter library, constructed a graphical user interface that ties back to a databases. This interface enables users to store sensitive data, such as username and password combinations. 
 
 ### Procedures:
 * Construct database, if necessary.
