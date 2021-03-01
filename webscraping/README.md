@@ -1,4 +1,4 @@
-# Webscraping
+# Web Scraping
 ## Video
 ![GIF webscrape](https://github.com/JackFlexington/python_project_showcase/blob/master/webscraping/webscraping.gif)
 
