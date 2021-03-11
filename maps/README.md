@@ -8,5 +8,5 @@
 * folium
 
 ## How does it work
-This python script creates an html file that allows someone to interact with the map.
-The map displays information about National Parks, Volcanoes, and the population numbers of many countries.
+Python is utilized to generate a web browser friendly HTML file.
+HTML file can opened, or attached to an existing web site, allowing the people to interact with it.
