@@ -4,7 +4,7 @@
 ![GIF demo_map](https://github.com/JackFlexington/python_project_showcase/blob/master/maps/_gifs/tour_of_maps.gif)
 
 ## Libraries used
-* pands
+* pandas
 * folium
 
 ## How it does
