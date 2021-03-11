@@ -1,0 +1,49 @@
+├── server_config
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── main_app
+│   ├── admin.py
+│   ├── apps.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── static
+│   │   ├── css
+│   │   │   ├── defaults.css
+│   │   │   ├── employee.css
+│   │   │   ├── general_ledger.css
+│   │   │   ├── index.css
+│   │   │   ├── placeholder.css
+│   │   │   ├── products.css
+│   │   │   └── timesheet.css
+│   │   ├── js
+│   │   │   ├── boilerplate.js
+│   │   │   ├── crud.js
+│   │   │   ├── csv.js
+│   │   │   ├── general_ledger.js
+│   │   │   ├── timesheet.js
+│   │   │   └── user_validation.js
+│   │   └── libraries
+│   │       └── jQuery.min.js
+│   ├── templates
+│   │   ├── base_generic.html
+│   │   ├── crud.html
+│   │   ├── csv_export.html
+│   │   ├── employee.html
+│   │   ├── general_ledger.html
+│   │   ├── index.html
+│   │   ├── placeholder.html
+│   │   ├── products.html
+│   │   └── timesheet.html
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── manage.py
+└── README.md
+
+# GitHub quanitifies this code base as follows...
+* 33.6% Python
+* 28.2% Javascript
+* 27.2% HTML
+* 11.0% CSS
