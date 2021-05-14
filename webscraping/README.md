@@ -5,6 +5,7 @@
 ## Libraries used
 * Pandas
 * Selenium
+* Requests
 
 ## How it works
 Stitching together to two above Python libraries enables "data scrapeing" with beautiful formatting of table-like datasets. When executing this script, it'll initialize a robot that navigates to "auction.com". Keys in the desired state then iterates through every single listing, compiling information along the way. At the end it spits out the results into a local comma-separated file for review.
