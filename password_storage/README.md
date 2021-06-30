@@ -17,3 +17,13 @@ Using the tKinter library, constructed a graphical user interface that ties back
 
 ### Notes:
 * Somewhere around 200 lines of code.
+
+## Installation:
+```bash
+sudo apt-get install python3-tk; # Install tKinter (Just in case it didn't install with your Python IDE installation)
+```
+
+## Running the application
+```bash
+python3 password_storage.py; # Run application
+```
