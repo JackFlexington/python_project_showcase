@@ -32,9 +32,16 @@ pip3 install requests;
 vi webscrape.py;
 ```
 
-Install geckodriver [Source](https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu#871077)
-Add gecko drivers to PATH Source: [Using geckodriver - Stack overflow](https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path)
+* Install geckodriver [Source](https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu#871077)
+* Add gecko drivers to PATH Source: [Using geckodriver - Stack overflow](https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path)
 ```bash
-
+wget https://github.com/mozilla/geckodriver/releases/download/v0.29.1/geckodriver-v0.29.1-linux64.tar.gz; # Download tar file
+tar -xzvf geckodriver-v0.29.1-linux64.tar.gz; # Extract zipped file
+export PATH=$PATH:/~/python/webscraping/;     # Allows shell that invokes "python3 webscrape.py" to find geckodriver to run the selenium application
 ```
 What is headless mode? The application will run without displaying any GUI. (Which means it'll run much faster, as HTML elements don't need to render in like they would in graphical displays).
+
+## Running the application:
+```python3 webscrape.py```
+
+Note: You can check the terminal session for logging messages.
