@@ -20,5 +20,5 @@ git clone https://github.com/JackFlexington/python_project_showcase.git
 ```
 
 ## Generate map
-```bash python3 create-map.py```
+```python3 create-map.py```
 Double-click the "Map1.html"
