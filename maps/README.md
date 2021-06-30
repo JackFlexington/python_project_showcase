@@ -15,4 +15,10 @@ HTML file can opened, or attached to an existing web site, allowing the people t
 ```bash
 pip3 install pandas
 pip3 install folium
+git clone https://github.com/JackFlexington/python_project_showcase.git
+# Navigate to the directory that contains "create-map.py"
 ```
+
+## Generate map
+```bash python3 create-map.py```
+Double-click the "Map1.html"
